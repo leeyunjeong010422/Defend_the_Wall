@@ -16,7 +16,6 @@ public class TrainingGunController : MonoBehaviour
         }
     }
 
-
     public void Fire(string bulletType)
     {
         SoundManager.Instance.PlayGunSound();
@@ -31,14 +30,7 @@ public class TrainingGunController : MonoBehaviour
             rigidbody.velocity = bullet.transform.forward * fireSpeed;
 
             //총알이 사용된 후 2초 뒤에 풀로 돌아가도록 설정
-            StartCoroutine(ReturnBulletAfterDelay(bullet, 2f));
+            bullet.GetComponent<TrainingBulletController>().StartReturnCoroutine(2f);
         }
     }
-
-    private IEnumerator ReturnBulletAfterDelay(GameObject bullet, float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        bulletPool.ReturnBullet(bullet);
-    }
-
 }

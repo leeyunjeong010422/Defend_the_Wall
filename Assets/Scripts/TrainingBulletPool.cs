@@ -7,7 +7,7 @@ public class TrainingBulletPool : MonoBehaviour
     [System.Serializable]
     public class BulletType
     {
-        public string bulletName; //총알 이름
+        public string bulletName; //총알 이름 정해서 Fire 함수 사용할 때 사용해야 함
         public GameObject bulletPrefab;
         public int poolSize;
         public List<GameObject> bullets;
