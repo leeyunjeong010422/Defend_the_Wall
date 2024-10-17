@@ -10,6 +10,7 @@ public class GunController : MonoBehaviour
 
     public void Fire()
     {
+        SoundManager.Instance.PlayGunSound();
         GameObject bullet = Instantiate(bulletPrefabs, firePoint.position, firePoint.rotation);
         Rigidbody rigidbody = bullet.GetComponent<Rigidbody>();
         rigidbody.velocity = bullet.transform.forward * fireSpeed;
