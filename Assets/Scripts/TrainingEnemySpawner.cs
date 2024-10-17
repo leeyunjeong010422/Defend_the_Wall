@@ -6,10 +6,10 @@ public class TrainingEnemySpawner : MonoBehaviour
 {
     [SerializeField] GameObject enemyPrefab;
     [SerializeField] int poolSize = 5;
-    [SerializeField] float spawnInterval = 2f;
-    [SerializeField] Vector2 xRange;
-    [SerializeField] float yPosition = 14.08f;
-    [SerializeField] Vector2 zRange;
+    [SerializeField] float spawnInterval;
+    [SerializeField] Vector2 xRange; // [0, 10]
+    [SerializeField] float yPosition = 1;
+    [SerializeField] Vector2 zRange; // [20, 30]
 
     private List<GameObject> enemyPool;
     private float timer;

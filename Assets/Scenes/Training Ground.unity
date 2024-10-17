@@ -362,7 +362,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 7839805491767949754, guid: 42992b81488a63e4db73e91cc7d9da67, type: 3}
   poolSize: 5
-  spawnInterval: 2
+  spawnInterval: 0.5
   xRange: {x: 0, y: 10}
   yPosition: 1
   zRange: {x: 20, y: 30}
@@ -1630,7 +1630,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
