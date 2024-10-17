@@ -4,8 +4,22 @@ using UnityEngine;
 
 public class TrainingBulletController : MonoBehaviour
 {
+
+    private void Update()
+    {
+        Invoke("DestroyBullet", 1f);
+    }
+
     private void OnTriggerEnter(Collider other)
     {
-        Destroy(gameObject); //어떤 오브젝트와 닿아도 총알 제거
+        if (other.CompareTag("Enemy"))
+        {
+            Destroy(gameObject); //Enemy에 닿으면 바로 제거
+        }          
+    }
+
+    private void DestroyBullet()
+    {
+        Destroy(gameObject);
     }
 }

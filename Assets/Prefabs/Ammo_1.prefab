@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1196079984233782298}
   - component: {fileID: 4467811885897377856}
-  - component: {fileID: 3188256837163485720}
+  - component: {fileID: -3474619785353065794}
   m_Layer: 0
   m_Name: Ammo_1
   m_TagString: Bullet
@@ -50,7 +50,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &3188256837163485720
+--- !u!114 &-3474619785353065794
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,7 +155,7 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8732820904219511527}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
   m_Convex: 1
@@ -169,7 +169,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8732820904219511527}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.010739186
   m_Height: 0.05705294
