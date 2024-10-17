@@ -4,22 +4,25 @@ using UnityEngine;
 
 public class TrainingBulletController : MonoBehaviour
 {
+    private TrainingBulletPool bulletPool;
+    private bool isReturning = false; //중간중간 총알이 사라져서 중복 호출 오류 해결
 
-    private void Update()
+    private void Start()
     {
-        Invoke("DestroyBullet", 1f);
+        bulletPool = FindObjectOfType<TrainingBulletPool>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("Enemy") && !isReturning)
         {
-            Destroy(gameObject); //Enemy에 닿으면 바로 제거
-        }          
+            isReturning = true;
+            bulletPool.ReturnBullet(gameObject); //Enemy에 닿으면 풀로 돌아가기
+        }
     }
 
-    private void DestroyBullet()
+    private void OnEnable()
     {
-        Destroy(gameObject);
+        isReturning = false; //활성화될 때 초기화
     }
 }

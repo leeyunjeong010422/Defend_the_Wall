@@ -288,15 +288,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 313254888347650235}
-        m_TargetAssemblyTypeName: GunController, Assembly-CSharp
+        m_TargetAssemblyTypeName: TrainingGunController, Assembly-CSharp
         m_MethodName: Fire
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 2
           m_BoolArgument: 0
         m_CallState: 2
   m_Deactivated:
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 268a063a73ea798459ef4d054d63d33e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefabs: {fileID: 8095671139519864393, guid: 4e3277e8e4748f040ae9d72ed68cc650, type: 3}
+  bulletPool: {fileID: 0}
   firePoint: {fileID: 341293151484205501}
   fireSpeed: 25
 --- !u!1 &340644343583233259
