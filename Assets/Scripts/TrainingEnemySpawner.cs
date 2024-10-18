@@ -13,6 +13,7 @@ public class TrainingEnemySpawner : MonoBehaviour
 
     private List<GameObject> enemyPool;
     private float timer;
+    private bool isSpawning = false;
 
     private void Start()
     {
@@ -29,6 +30,8 @@ public class TrainingEnemySpawner : MonoBehaviour
 
     private void Update()
     {
+        if (!isSpawning) return;
+
         timer += Time.deltaTime;
 
         if (timer >=  spawnInterval)
@@ -55,6 +58,16 @@ public class TrainingEnemySpawner : MonoBehaviour
                 break;
             }
         }
+    }
+
+    public void StartSpawning()
+    {
+        isSpawning = true;
+    }
+
+    public void StopSpawning()
+    {
+        isSpawning = false;
     }
 
     public void ReturnEnemyToPool(GameObject enemy)
