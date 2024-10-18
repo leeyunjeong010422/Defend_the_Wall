@@ -11,10 +11,7 @@ public class TargetScore : MonoBehaviour
         //그냥 distance로 하니까 10,9,8 밖에 안 나와서 2를 곱해줌
         int score = Mathf.Clamp(maxScore - Mathf.FloorToInt((2 * distance / maxDistance) * maxScore), 0, maxScore);
 
-        if (score == 10)
-        {
-            SoundManager.Instance.PlayScore_10Sound();
-        }
+        ScoreManager.Instance.UpdateScore(score);
 
         return score;
     }

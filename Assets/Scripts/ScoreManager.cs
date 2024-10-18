@@ -8,6 +8,8 @@ public class ScoreManager : MonoBehaviour
     public static ScoreManager Instance;
     [SerializeField] TextMeshProUGUI scoreText;
 
+    private bool isScoring = false;
+
     private void Awake()
     {
         if (Instance == null)
@@ -16,17 +18,26 @@ public class ScoreManager : MonoBehaviour
         }
     }
 
+    public void StartScoreTracking()
+    {
+        isScoring = true;
+    }
+
     public void UpdateScore(int score)
     {
-        scoreText.text = "점수: " + score;
+        if (isScoring)
+        {
+            scoreText.text = "점수: " + score;
 
-        if (score == 10)
-        {
-            scoreText.color = Color.red; // 빨간색
-        }
-        else
-        {
-            scoreText.color = Color.white; // 기본 색상으로 변경 (예: 흰색)
+            if (score == 10)
+            {
+                scoreText.color = Color.red;
+                SoundManager.Instance.PlayScore_10Sound();
+            }
+            else
+            {
+                scoreText.color = Color.white;
+            }
         }
     }
 }
