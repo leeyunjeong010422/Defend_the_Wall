@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 54245970}
   - component: {fileID: 54245969}
   - component: {fileID: 54245968}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   - component: {fileID: 60608336}
   - component: {fileID: 60608335}
   - component: {fileID: 60608334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -667,7 +667,7 @@ GameObject:
   - component: {fileID: 178090474}
   - component: {fileID: 178090473}
   - component: {fileID: 178090472}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -761,7 +761,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 200741102}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: MapObjects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1096,7 +1096,7 @@ GameObject:
   - component: {fileID: 362757627}
   - component: {fileID: 362757626}
   - component: {fileID: 362757625}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1757,7 +1757,7 @@ GameObject:
   - component: {fileID: 766626876}
   - component: {fileID: 766626875}
   - component: {fileID: 766626874}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2017,7 +2017,7 @@ GameObject:
   - component: {fileID: 1001831857}
   - component: {fileID: 1001831856}
   - component: {fileID: 1001831855}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2357,7 +2357,7 @@ GameObject:
   - component: {fileID: 1034645618}
   - component: {fileID: 1034645617}
   - component: {fileID: 1034645616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2514,7 +2514,7 @@ GameObject:
   - component: {fileID: 1073401816}
   - component: {fileID: 1073401815}
   - component: {fileID: 1073401814}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3002,7 +3002,7 @@ GameObject:
   - component: {fileID: 1156807665}
   - component: {fileID: 1156807664}
   - component: {fileID: 1156807663}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3110,7 +3110,7 @@ GameObject:
   - component: {fileID: 1173767865}
   - component: {fileID: 1173767864}
   - component: {fileID: 1173767863}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3268,7 +3268,7 @@ GameObject:
   - component: {fileID: 1211876698}
   - component: {fileID: 1211876697}
   - component: {fileID: 1211876696}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3495,7 +3495,7 @@ GameObject:
   - component: {fileID: 1234398194}
   - component: {fileID: 1234398193}
   - component: {fileID: 1234398192}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3637,7 +3637,7 @@ GameObject:
   - component: {fileID: 1348974209}
   - component: {fileID: 1348974208}
   - component: {fileID: 1348974207}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4040,7 +4040,7 @@ GameObject:
   - component: {fileID: 1454209618}
   - component: {fileID: 1454209617}
   - component: {fileID: 1454209616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4197,7 +4197,7 @@ GameObject:
   - component: {fileID: 1574777947}
   - component: {fileID: 1574777946}
   - component: {fileID: 1574777945}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Icon_Arrow_Small_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4295,7 +4295,7 @@ GameObject:
   - component: {fileID: 1576567481}
   - component: {fileID: 1576567480}
   - component: {fileID: 1576567479}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4392,7 +4392,7 @@ GameObject:
   - component: {fileID: 1580344263}
   - component: {fileID: 1580344262}
   - component: {fileID: 1580344261}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4565,7 +4565,7 @@ GameObject:
   - component: {fileID: 1631546110}
   - component: {fileID: 1631546109}
   - component: {fileID: 1631546108}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4662,7 +4662,7 @@ GameObject:
   - component: {fileID: 1649952809}
   - component: {fileID: 1649952808}
   - component: {fileID: 1649952807}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4759,7 +4759,7 @@ GameObject:
   - component: {fileID: 1683324524}
   - component: {fileID: 1683324523}
   - component: {fileID: 1683324522}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5225,7 +5225,7 @@ GameObject:
   - component: {fileID: 1774334445}
   - component: {fileID: 1774334444}
   - component: {fileID: 1774334443}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_1x1_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5310,6 +5310,45 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1774334441}
   m_Mesh: {fileID: 4300000, guid: efecce0669e04d14aada7871935a434d, type: 3}
+--- !u!1 &1807331267 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7696548424635294048, guid: 895f6f3c2d334633b5800312285058d2, type: 3}
+  m_PrefabInstance: {fileID: 1230367511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!143 &1807331273 stripped
+CharacterController:
+  m_CorrespondingSourceObject: {fileID: 3127728407712097239, guid: 895f6f3c2d334633b5800312285058d2, type: 3}
+  m_PrefabInstance: {fileID: 1230367511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1807331274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807331267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28c3e86f3abc63f439ae8bfd6bc96330, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpButton:
+    m_UseReference: 1
+    m_Action:
+      m_Name: Jump Button
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 1ea5df67-915f-4eb7-b493-69f0cf16f42f
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: -3467074841674446063, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  jumpHeight: 1
+  characterController: {fileID: 1807331273}
+  groudLayers:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1001 &1900548627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5647,7 +5686,7 @@ GameObject:
   - component: {fileID: 2109857875}
   - component: {fileID: 2109857874}
   - component: {fileID: 2109857873}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5942,7 +5981,7 @@ GameObject:
   - component: {fileID: 2142773976}
   - component: {fileID: 2142773975}
   - component: {fileID: 2142773974}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Icon_Arrow_Small_01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6039,7 +6078,7 @@ GameObject:
   - component: {fileID: 4849430258800586}
   - component: {fileID: 33351716894700378}
   - component: {fileID: 23787634388655224}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Prop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6058,7 +6097,7 @@ GameObject:
   - component: {fileID: 33524957451591325}
   - component: {fileID: 23075390294705793}
   - component: {fileID: 64334384000962025}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_Flat_01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6077,7 +6116,7 @@ GameObject:
   - component: {fileID: 33524956818049055}
   - component: {fileID: 23075389661433859}
   - component: {fileID: 64334384441564011}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_Flat_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6096,7 +6135,7 @@ GameObject:
   - component: {fileID: 33524957044855586}
   - component: {fileID: 23075389435153214}
   - component: {fileID: 64334384768958550}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_Flat_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6115,7 +6154,7 @@ GameObject:
   - component: {fileID: 33524956332560950}
   - component: {fileID: 23075389274507818}
   - component: {fileID: 64334385128374594}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_Flat_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6134,7 +6173,7 @@ GameObject:
   - component: {fileID: 33269699548765037}
   - component: {fileID: 23426470254487783}
   - component: {fileID: 64961349459637771}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_03 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6153,7 +6192,7 @@ GameObject:
   - component: {fileID: 33269699930366810}
   - component: {fileID: 23426469830938832}
   - component: {fileID: 64961349883170364}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6172,7 +6211,7 @@ GameObject:
   - component: {fileID: 33999003406078323}
   - component: {fileID: 23911582418484249}
   - component: {fileID: 64372137066388305}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_WallDoor_2x3_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6191,7 +6230,7 @@ GameObject:
   - component: {fileID: 33999003893364626}
   - component: {fileID: 23911582105426680}
   - component: {fileID: 64372137518775728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_WallDoor_2x3_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6209,7 +6248,7 @@ GameObject:
   - component: {fileID: 4425566503504774}
   - component: {fileID: 33540479205037018}
   - component: {fileID: 23478468093774594}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Cockpit_Stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6228,7 +6267,7 @@ GameObject:
   - component: {fileID: 33051811041064447}
   - component: {fileID: 23635924259325431}
   - component: {fileID: 64851974739294461}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6247,7 +6286,7 @@ GameObject:
   - component: {fileID: 33051810990178969}
   - component: {fileID: 23635924040790673}
   - component: {fileID: 64851975058526107}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6266,7 +6305,7 @@ GameObject:
   - component: {fileID: 33051810763680819}
   - component: {fileID: 23635923814308923}
   - component: {fileID: 64851975368925489}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6285,7 +6324,7 @@ GameObject:
   - component: {fileID: 33051810664928929}
   - component: {fileID: 23635923849619113}
   - component: {fileID: 64851975401216931}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6304,7 +6343,7 @@ GameObject:
   - component: {fileID: 33051810679006115}
   - component: {fileID: 23635923893212075}
   - component: {fileID: 64851975449931425}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6323,7 +6362,7 @@ GameObject:
   - component: {fileID: 33051810579228663}
   - component: {fileID: 23635923663149055}
   - component: {fileID: 64851975218031349}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6342,7 +6381,7 @@ GameObject:
   - component: {fileID: 33051810618745860}
   - component: {fileID: 23635923669242892}
   - component: {fileID: 64851975220848902}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6361,7 +6400,7 @@ GameObject:
   - component: {fileID: 33051810183208428}
   - component: {fileID: 23635923229224420}
   - component: {fileID: 64851975862161646}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6380,7 +6419,7 @@ GameObject:
   - component: {fileID: 33051810069060265}
   - component: {fileID: 23635923153119905}
   - component: {fileID: 64851975778457515}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6399,7 +6438,7 @@ GameObject:
   - component: {fileID: 33051809980317623}
   - component: {fileID: 23635923164729279}
   - component: {fileID: 64851975792439989}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6418,7 +6457,7 @@ GameObject:
   - component: {fileID: 33051809717060753}
   - component: {fileID: 23635922901660825}
   - component: {fileID: 64851976063994259}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6437,7 +6476,7 @@ GameObject:
   - component: {fileID: 33051809560580809}
   - component: {fileID: 23635922778694337}
   - component: {fileID: 64851976480006091}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6456,7 +6495,7 @@ GameObject:
   - component: {fileID: 33051809542678692}
   - component: {fileID: 23635922622535852}
   - component: {fileID: 64851976325817766}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6475,7 +6514,7 @@ GameObject:
   - component: {fileID: 33051809173432750}
   - component: {fileID: 23635922387212710}
   - component: {fileID: 64851976628675756}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Crate_03 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6494,7 +6533,7 @@ GameObject:
   - component: {fileID: 33123996685408103}
   - component: {fileID: 23038262817812201}
   - component: {fileID: 64515225860990211}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6513,7 +6552,7 @@ GameObject:
   - component: {fileID: 33123996699476485}
   - component: {fileID: 23038262563486603}
   - component: {fileID: 64515226114306145}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6532,7 +6571,7 @@ GameObject:
   - component: {fileID: 33123995811500940}
   - component: {fileID: 23038263554222594}
   - component: {fileID: 64515226197238248}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6551,7 +6590,7 @@ GameObject:
   - component: {fileID: 33123995989659398}
   - component: {fileID: 23038263464277640}
   - component: {fileID: 64515226287258978}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6570,7 +6609,7 @@ GameObject:
   - component: {fileID: 33123995662776674}
   - component: {fileID: 23038263690494188}
   - component: {fileID: 64515227151010566}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6589,7 +6628,7 @@ GameObject:
   - component: {fileID: 33123995306660089}
   - component: {fileID: 23038264123156855}
   - component: {fileID: 64515226703127197}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6608,7 +6647,7 @@ GameObject:
   - component: {fileID: 33123995060190135}
   - component: {fileID: 23038264430314041}
   - component: {fileID: 64515227486472659}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Grass_02 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6627,7 +6666,7 @@ GameObject:
   - component: {fileID: 33324101695295566}
   - component: {fileID: 23167514171260894}
   - component: {fileID: 65158185826356780}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6646,7 +6685,7 @@ GameObject:
   - component: {fileID: 33324101640575429}
   - component: {fileID: 23167514099758677}
   - component: {fileID: 65158185901393831}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6665,7 +6704,7 @@ GameObject:
   - component: {fileID: 33324101585322970}
   - component: {fileID: 23167514061286474}
   - component: {fileID: 65158185703546296}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6684,7 +6723,7 @@ GameObject:
   - component: {fileID: 33324101598866553}
   - component: {fileID: 23167514074809321}
   - component: {fileID: 65158185721279003}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6703,7 +6742,7 @@ GameObject:
   - component: {fileID: 33324101926976036}
   - component: {fileID: 23167513849271732}
   - component: {fileID: 65158185646990406}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6722,7 +6761,7 @@ GameObject:
   - component: {fileID: 33324101872120136}
   - component: {fileID: 23167513794420440}
   - component: {fileID: 65158185466048298}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6741,7 +6780,7 @@ GameObject:
   - component: {fileID: 33324102269176039}
   - component: {fileID: 23167513671427959}
   - component: {fileID: 65158186395817605}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6760,7 +6799,7 @@ GameObject:
   - component: {fileID: 33324102218709203}
   - component: {fileID: 23167513620911939}
   - component: {fileID: 65158186479789745}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6779,7 +6818,7 @@ GameObject:
   - component: {fileID: 33324102114110672}
   - component: {fileID: 23167513499534144}
   - component: {fileID: 65158186232591026}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6798,7 +6837,7 @@ GameObject:
   - component: {fileID: 33324102147246158}
   - component: {fileID: 23167513532721118}
   - component: {fileID: 65158186265499180}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6817,7 +6856,7 @@ GameObject:
   - component: {fileID: 33324102135684174}
   - component: {fileID: 23167513537934302}
   - component: {fileID: 65158186258383404}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6836,7 +6875,7 @@ GameObject:
   - component: {fileID: 33324102031722805}
   - component: {fileID: 23167513433941669}
   - component: {fileID: 65158186296743767}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6855,7 +6894,7 @@ GameObject:
   - component: {fileID: 33324102454597349}
   - component: {fileID: 23167513319946613}
   - component: {fileID: 65158186174351495}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6874,7 +6913,7 @@ GameObject:
   - component: {fileID: 33324102442591525}
   - component: {fileID: 23167513291180725}
   - component: {fileID: 65158186171038535}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6893,7 +6932,7 @@ GameObject:
   - component: {fileID: 33324102427218180}
   - component: {fileID: 23167513275825812}
   - component: {fileID: 65158186016984934}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6912,7 +6951,7 @@ GameObject:
   - component: {fileID: 33324102364328547}
   - component: {fileID: 23167513212886515}
   - component: {fileID: 65158186079890433}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6931,7 +6970,7 @@ GameObject:
   - component: {fileID: 33324102677347975}
   - component: {fileID: 23167515136545047}
   - component: {fileID: 65158184660689125}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6950,7 +6989,7 @@ GameObject:
   - component: {fileID: 33324102587176970}
   - component: {fileID: 23167515063138202}
   - component: {fileID: 65158184700511848}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6969,7 +7008,7 @@ GameObject:
   - component: {fileID: 33324102604970930}
   - component: {fileID: 23167515080930338}
   - component: {fileID: 65158184718304720}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6988,7 +7027,7 @@ GameObject:
   - component: {fileID: 33324102882874717}
   - component: {fileID: 23167514805189325}
   - component: {fileID: 65158184455146303}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7007,7 +7046,7 @@ GameObject:
   - component: {fileID: 33324103622561313}
   - component: {fileID: 23167514471162289}
   - component: {fileID: 65158185056718915}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7026,7 +7065,7 @@ GameObject:
   - component: {fileID: 33324103532841748}
   - component: {fileID: 23167514381444228}
   - component: {fileID: 65158185113802102}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7045,7 +7084,7 @@ GameObject:
   - component: {fileID: 33324103513142005}
   - component: {fileID: 23167514378476901}
   - component: {fileID: 65158185085414551}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7064,7 +7103,7 @@ GameObject:
   - component: {fileID: 33324103446519217}
   - component: {fileID: 23167514311864865}
   - component: {fileID: 65158184880374739}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7083,7 +7122,7 @@ GameObject:
   - component: {fileID: 33324103395802295}
   - component: {fileID: 23167514261132071}
   - component: {fileID: 65158184968331989}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7102,7 +7141,7 @@ GameObject:
   - component: {fileID: 33324103389360676}
   - component: {fileID: 23167514237951412}
   - component: {fileID: 65158184957471814}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Column_2x3_01P (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7141,7 +7180,7 @@ GameObject:
   - component: {fileID: 33917523881186284}
   - component: {fileID: 23219841353533828}
   - component: {fileID: 64042309973492084}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7160,7 +7199,7 @@ GameObject:
   - component: {fileID: 33917523703474049}
   - component: {fileID: 23219841175829993}
   - component: {fileID: 64042310132315417}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7179,7 +7218,7 @@ GameObject:
   - component: {fileID: 33917523740971982}
   - component: {fileID: 23219841212795302}
   - component: {fileID: 64042310101647702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7198,7 +7237,7 @@ GameObject:
   - component: {fileID: 33917524147724943}
   - component: {fileID: 23219841082816743}
   - component: {fileID: 64042310240170007}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7217,7 +7256,7 @@ GameObject:
   - component: {fileID: 33917524046566688}
   - component: {fileID: 23219840981651272}
   - component: {fileID: 64042310475532216}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7236,7 +7275,7 @@ GameObject:
   - component: {fileID: 33917524092413057}
   - component: {fileID: 23219840994475753}
   - component: {fileID: 64042310454343193}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7255,7 +7294,7 @@ GameObject:
   - component: {fileID: 33917523654522556}
   - component: {fileID: 23219841629531348}
   - component: {fileID: 64042310888793124}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7274,7 +7313,7 @@ GameObject:
   - component: {fileID: 33917523698377120}
   - component: {fileID: 23219841673788360}
   - component: {fileID: 64042310865417016}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7293,7 +7332,7 @@ GameObject:
   - component: {fileID: 33917523506023488}
   - component: {fileID: 23219841514853928}
   - component: {fileID: 64042311007690456}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7312,7 +7351,7 @@ GameObject:
   - component: {fileID: 33917523449742864}
   - component: {fileID: 23219841458838648}
   - component: {fileID: 64042310952522888}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7331,7 +7370,7 @@ GameObject:
   - component: {fileID: 33917522812885323}
   - component: {fileID: 23219842432320291}
   - component: {fileID: 64042308905323475}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7350,7 +7389,7 @@ GameObject:
   - component: {fileID: 33917522669296604}
   - component: {fileID: 23219842288599476}
   - component: {fileID: 64042309030037828}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7369,7 +7408,7 @@ GameObject:
   - component: {fileID: 33917523058281514}
   - component: {fileID: 23219842107299394}
   - component: {fileID: 64042309217771186}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7388,7 +7427,7 @@ GameObject:
   - component: {fileID: 33917522900323069}
   - component: {fileID: 23219841983156373}
   - component: {fileID: 64042309329295461}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7407,7 +7446,7 @@ GameObject:
   - component: {fileID: 33917522623485022}
   - component: {fileID: 23219842746502710}
   - component: {fileID: 64042309790713542}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7426,7 +7465,7 @@ GameObject:
   - component: {fileID: 33917522416861651}
   - component: {fileID: 23219842540018619}
   - component: {fileID: 64042309852336971}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Stairs_1x1_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7444,7 +7483,7 @@ GameObject:
   - component: {fileID: 4625190731482616}
   - component: {fileID: 33304185527709274}
   - component: {fileID: 23478127878550420}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_fr_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7462,7 +7501,7 @@ GameObject:
   - component: {fileID: 4541113553585518}
   - component: {fileID: 33658453974752698}
   - component: {fileID: 23859657640924276}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_rl_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7481,7 +7520,7 @@ GameObject:
   - component: {fileID: 33669387483432921}
   - component: {fileID: 23917697719305597}
   - component: {fileID: 64820213416759129}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_TreeStump_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7500,7 +7539,7 @@ GameObject:
   - component: {fileID: 33696427790718546}
   - component: {fileID: 23868301531198264}
   - component: {fileID: 64894974001539648}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7518,7 +7557,7 @@ GameObject:
   - component: {fileID: 4919903261230284}
   - component: {fileID: 33608485611717556}
   - component: {fileID: 23952706264912890}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_fr_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7536,7 +7575,7 @@ GameObject:
   - component: {fileID: 4261670459690964}
   - component: {fileID: 33131427109909164}
   - component: {fileID: 23687742353506780}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_fl_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7555,7 +7594,7 @@ GameObject:
   - component: {fileID: 33101007315906628}
   - component: {fileID: 23402354979603884}
   - component: {fileID: 64818113730010086}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7574,7 +7613,7 @@ GameObject:
   - component: {fileID: 33101007802725790}
   - component: {fileID: 23402355432865910}
   - component: {fileID: 64818113244241468}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7593,7 +7632,7 @@ GameObject:
   - component: {fileID: 33101006188913454}
   - component: {fileID: 23402353816966854}
   - component: {fileID: 64818114851752076}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7612,7 +7651,7 @@ GameObject:
   - component: {fileID: 33101006114611975}
   - component: {fileID: 23402353488647919}
   - component: {fileID: 64818115175614629}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7631,7 +7670,7 @@ GameObject:
   - component: {fileID: 33101006077515846}
   - component: {fileID: 23402353466502574}
   - component: {fileID: 64818115171824612}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7650,7 +7689,7 @@ GameObject:
   - component: {fileID: 33101005994733290}
   - component: {fileID: 23402353406515970}
   - component: {fileID: 64818115227206984}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7669,7 +7708,7 @@ GameObject:
   - component: {fileID: 33101005894743130}
   - component: {fileID: 23402353573118386}
   - component: {fileID: 64818115127975928}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7688,7 +7727,7 @@ GameObject:
   - component: {fileID: 33101006890424488}
   - component: {fileID: 23402354264730944}
   - component: {fileID: 64818114341090058}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7707,7 +7746,7 @@ GameObject:
   - component: {fileID: 33101006764961944}
   - component: {fileID: 23402354390648176}
   - component: {fileID: 64818114214763322}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7726,7 +7765,7 @@ GameObject:
   - component: {fileID: 33101006610607611}
   - component: {fileID: 23402353999321107}
   - component: {fileID: 64818114631386713}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7745,7 +7784,7 @@ GameObject:
   - component: {fileID: 33101006442252157}
   - component: {fileID: 23402354099417749}
   - component: {fileID: 64818114597235935}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Ground_01 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7763,7 +7802,7 @@ GameObject:
   - component: {fileID: 4321708267150852}
   - component: {fileID: 33711804678008404}
   - component: {fileID: 23419220396924398}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7781,7 +7820,7 @@ GameObject:
   - component: {fileID: 4756262349321154}
   - component: {fileID: 33208914573882562}
   - component: {fileID: 23467132325435192}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7799,7 +7838,7 @@ GameObject:
   - component: {fileID: 4756262225302616}
   - component: {fileID: 33208914550100824}
   - component: {fileID: 23467132247896226}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7817,7 +7856,7 @@ GameObject:
   - component: {fileID: 4756262038618836}
   - component: {fileID: 33208914329863636}
   - component: {fileID: 23467132568790574}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7835,7 +7874,7 @@ GameObject:
   - component: {fileID: 4756261977597649}
   - component: {fileID: 33208914277654993}
   - component: {fileID: 23467132495823403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7853,7 +7892,7 @@ GameObject:
   - component: {fileID: 4756262014227397}
   - component: {fileID: 33208914238919877}
   - component: {fileID: 23467132528146239}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7871,7 +7910,7 @@ GameObject:
   - component: {fileID: 4756262644893654}
   - component: {fileID: 33208914131484886}
   - component: {fileID: 23467132902040364}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7889,7 +7928,7 @@ GameObject:
   - component: {fileID: 4756262856434092}
   - component: {fileID: 33208914048935596}
   - component: {fileID: 23467132891792726}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7907,7 +7946,7 @@ GameObject:
   - component: {fileID: 4756262771819420}
   - component: {fileID: 33208914023433372}
   - component: {fileID: 23467132777178982}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7925,7 +7964,7 @@ GameObject:
   - component: {fileID: 4756262448567087}
   - component: {fileID: 33208913943057455}
   - component: {fileID: 23467133234657237}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7943,7 +7982,7 @@ GameObject:
   - component: {fileID: 4756262558999518}
   - component: {fileID: 33208913810613470}
   - component: {fileID: 23467133122119460}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7961,7 +8000,7 @@ GameObject:
   - component: {fileID: 4756263238491215}
   - component: {fileID: 33208913684765519}
   - component: {fileID: 23467133516413109}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7979,7 +8018,7 @@ GameObject:
   - component: {fileID: 4756263275081507}
   - component: {fileID: 33208913654409251}
   - component: {fileID: 23467133548989401}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7997,7 +8036,7 @@ GameObject:
   - component: {fileID: 4756263193120260}
   - component: {fileID: 33208913580181764}
   - component: {fileID: 23467133496732414}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8015,7 +8054,7 @@ GameObject:
   - component: {fileID: 4756263374651472}
   - component: {fileID: 33208913551738704}
   - component: {fileID: 23467133380469930}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8033,7 +8072,7 @@ GameObject:
   - component: {fileID: 4756263344528042}
   - component: {fileID: 33208913429831082}
   - component: {fileID: 23467133345627728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8051,7 +8090,7 @@ GameObject:
   - component: {fileID: 4756263331854234}
   - component: {fileID: 33208913442451610}
   - component: {fileID: 23467133358297952}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8069,7 +8108,7 @@ GameObject:
   - component: {fileID: 4756262969961906}
   - component: {fileID: 33208913416366770}
   - component: {fileID: 23467133784934728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8087,7 +8126,7 @@ GameObject:
   - component: {fileID: 4756263127073977}
   - component: {fileID: 33208913245668281}
   - component: {fileID: 23467133694926915}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8105,7 +8144,7 @@ GameObject:
   - component: {fileID: 4756263717563319}
   - component: {fileID: 33208913055755447}
   - component: {fileID: 23467133979217741}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8123,7 +8162,7 @@ GameObject:
   - component: {fileID: 4756263705700915}
   - component: {fileID: 33208913086491955}
   - component: {fileID: 23467133988982473}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8141,7 +8180,7 @@ GameObject:
   - component: {fileID: 4756263881395836}
   - component: {fileID: 33208912892955004}
   - component: {fileID: 23467133882493574}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8159,7 +8198,7 @@ GameObject:
   - component: {fileID: 4756263888049054}
   - component: {fileID: 33208912899871902}
   - component: {fileID: 23467133873485668}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8177,7 +8216,7 @@ GameObject:
   - component: {fileID: 4756263865788358}
   - component: {fileID: 33208912910672070}
   - component: {fileID: 23467133895705404}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8195,7 +8234,7 @@ GameObject:
   - component: {fileID: 4756263659355392}
   - component: {fileID: 33208912729143808}
   - component: {fileID: 23467134171617786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8213,7 +8252,7 @@ GameObject:
   - component: {fileID: 4756263635757073}
   - component: {fileID: 33208912739102481}
   - component: {fileID: 23467134195207403}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8231,7 +8270,7 @@ GameObject:
   - component: {fileID: 4756263634215216}
   - component: {fileID: 33208912738477616}
   - component: {fileID: 23467134194386378}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_02 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8250,7 +8289,7 @@ GameObject:
   - component: {fileID: 33574083444124969}
   - component: {fileID: 23992094736692603}
   - component: {fileID: 64790211761260055}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Wep_Shield_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8269,7 +8308,7 @@ GameObject:
   - component: {fileID: 33542967259913250}
   - component: {fileID: 23999642812272624}
   - component: {fileID: 65913366386371840}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8288,7 +8327,7 @@ GameObject:
   - component: {fileID: 33542967324535854}
   - component: {fileID: 23999642880835580}
   - component: {fileID: 65913366316768524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8307,7 +8346,7 @@ GameObject:
   - component: {fileID: 33542967360796238}
   - component: {fileID: 23999642919380380}
   - component: {fileID: 65913366347319148}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8326,7 +8365,7 @@ GameObject:
   - component: {fileID: 33542967159843369}
   - component: {fileID: 23999642718239227}
   - component: {fileID: 65913366548568843}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8345,7 +8384,7 @@ GameObject:
   - component: {fileID: 33542967538625819}
   - component: {fileID: 23999643078147785}
   - component: {fileID: 65913366657342521}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8364,7 +8403,7 @@ GameObject:
   - component: {fileID: 33542967580416077}
   - component: {fileID: 23999643136641951}
   - component: {fileID: 65913366664866159}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8383,7 +8422,7 @@ GameObject:
   - component: {fileID: 33542967559641858}
   - component: {fileID: 23999643115866320}
   - component: {fileID: 65913366686689824}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8402,7 +8441,7 @@ GameObject:
   - component: {fileID: 33542967413662341}
   - component: {fileID: 23999642967863639}
   - component: {fileID: 65913366768702375}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8421,7 +8460,7 @@ GameObject:
   - component: {fileID: 33542967450594171}
   - component: {fileID: 23999642990049449}
   - component: {fileID: 65913366812514905}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8440,7 +8479,7 @@ GameObject:
   - component: {fileID: 33542967519003845}
   - component: {fileID: 23999643056363287}
   - component: {fileID: 65913366748296679}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8459,7 +8498,7 @@ GameObject:
   - component: {fileID: 33542966759443058}
   - component: {fileID: 23999643387582880}
   - component: {fileID: 65913366953950032}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8478,7 +8517,7 @@ GameObject:
   - component: {fileID: 33542966608850538}
   - component: {fileID: 23999643236728248}
   - component: {fileID: 65913367037697864}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8497,7 +8536,7 @@ GameObject:
   - component: {fileID: 33542966668363241}
   - component: {fileID: 23999643277432379}
   - component: {fileID: 65913366994924747}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8516,7 +8555,7 @@ GameObject:
   - component: {fileID: 33542966705345751}
   - component: {fileID: 23999643333281541}
   - component: {fileID: 65913367008306677}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8535,7 +8574,7 @@ GameObject:
   - component: {fileID: 33542966687677211}
   - component: {fileID: 23999643315808457}
   - component: {fileID: 65913367024634425}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8554,7 +8593,7 @@ GameObject:
   - component: {fileID: 33542967021792592}
   - component: {fileID: 23999643653865090}
   - component: {fileID: 65913367224540274}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8573,7 +8612,7 @@ GameObject:
   - component: {fileID: 33542967063967458}
   - component: {fileID: 23999643679319344}
   - component: {fileID: 65913367132030912}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8592,7 +8631,7 @@ GameObject:
   - component: {fileID: 33542967057542580}
   - component: {fileID: 23999643685748326}
   - component: {fileID: 65913367125613718}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8611,7 +8650,7 @@ GameObject:
   - component: {fileID: 33542967116791723}
   - component: {fileID: 23999643726113913}
   - component: {fileID: 65913367149203081}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8630,7 +8669,7 @@ GameObject:
   - component: {fileID: 33542966975006065}
   - component: {fileID: 23999643607144099}
   - component: {fileID: 65913367270241363}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8649,7 +8688,7 @@ GameObject:
   - component: {fileID: 33542968355796647}
   - component: {fileID: 23999641749923189}
   - component: {fileID: 65913367450781573}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8668,7 +8707,7 @@ GameObject:
   - component: {fileID: 33542968274733101}
   - component: {fileID: 23999641662577663}
   - component: {fileID: 65913367536072975}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8687,7 +8726,7 @@ GameObject:
   - component: {fileID: 33542968629029846}
   - component: {fileID: 23999642021328900}
   - component: {fileID: 65913367714192116}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8706,7 +8745,7 @@ GameObject:
   - component: {fileID: 33542968645687720}
   - component: {fileID: 23999642037652090}
   - component: {fileID: 65913367763822730}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8725,7 +8764,7 @@ GameObject:
   - component: {fileID: 33542968465552988}
   - component: {fileID: 23999641874556302}
   - component: {fileID: 65913367860889470}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8744,7 +8783,7 @@ GameObject:
   - component: {fileID: 33542968471136961}
   - component: {fileID: 23999641877854483}
   - component: {fileID: 65913367859731427}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8763,7 +8802,7 @@ GameObject:
   - component: {fileID: 33542967867461615}
   - component: {fileID: 23999642345757757}
   - component: {fileID: 65913367925522125}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8782,7 +8821,7 @@ GameObject:
   - component: {fileID: 33542967684992400}
   - component: {fileID: 23999642150706754}
   - component: {fileID: 65913368120540338}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8801,7 +8840,7 @@ GameObject:
   - component: {fileID: 33542967787367208}
   - component: {fileID: 23999642251245818}
   - component: {fileID: 65913368090253834}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8820,7 +8859,7 @@ GameObject:
   - component: {fileID: 33542968069368926}
   - component: {fileID: 23999642547928972}
   - component: {fileID: 65913368261238140}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8839,7 +8878,7 @@ GameObject:
   - component: {fileID: 33542968156354288}
   - component: {fileID: 23999642619962658}
   - component: {fileID: 65913368191322066}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8858,7 +8897,7 @@ GameObject:
   - component: {fileID: 33542968136442956}
   - component: {fileID: 23999642615068574}
   - component: {fileID: 65913368194159982}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8877,7 +8916,7 @@ GameObject:
   - component: {fileID: 33542968168963869}
   - component: {fileID: 23999642649677007}
   - component: {fileID: 65913368228785727}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8896,7 +8935,7 @@ GameObject:
   - component: {fileID: 33542968047995094}
   - component: {fileID: 23999642526292740}
   - component: {fileID: 65913368348932596}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8915,7 +8954,7 @@ GameObject:
   - component: {fileID: 33542968031440171}
   - component: {fileID: 23999642509999865}
   - component: {fileID: 65913368366308361}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8934,7 +8973,7 @@ GameObject:
   - component: {fileID: 33542968029511497}
   - component: {fileID: 23999642512321691}
   - component: {fileID: 65913368364043883}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_5x5_01P (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8953,7 +8992,7 @@ GameObject:
   - component: {fileID: 33472857314368057}
   - component: {fileID: 23865712646675719}
   - component: {fileID: 64993646180655251}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8972,7 +9011,7 @@ GameObject:
   - component: {fileID: 33472857210237745}
   - component: {fileID: 23865712550933519}
   - component: {fileID: 64993646079134107}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_04 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8991,7 +9030,7 @@ GameObject:
   - component: {fileID: 33472857636314260}
   - component: {fileID: 23865712305855402}
   - component: {fileID: 64993645984605758}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_04 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9010,7 +9049,7 @@ GameObject:
   - component: {fileID: 33472857141640042}
   - component: {fileID: 23865711810165844}
   - component: {fileID: 64993645473628608}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_04 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9029,7 +9068,7 @@ GameObject:
   - component: {fileID: 33820639223204146}
   - component: {fileID: 23167928332378430}
   - component: {fileID: 64269700104218820}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Icon_Arrow_Small_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9048,7 +9087,7 @@ GameObject:
   - component: {fileID: 33820638488742263}
   - component: {fileID: 23167928151433595}
   - component: {fileID: 64269699780929665}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Icon_Arrow_Small_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9067,7 +9106,7 @@ GameObject:
   - component: {fileID: 33265445675842470}
   - component: {fileID: 23109547475908676}
   - component: {fileID: 64622545764424272}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Tree_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9086,7 +9125,7 @@ GameObject:
   - component: {fileID: 33767429700812104}
   - component: {fileID: 23532366225819266}
   - component: {fileID: 65957551568668868}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Ladder_1x2_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9105,7 +9144,7 @@ GameObject:
   - component: {fileID: 33767429785987610}
   - component: {fileID: 23532366140608976}
   - component: {fileID: 65957551351865238}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Ladder_1x2_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9123,7 +9162,7 @@ GameObject:
   - component: {fileID: 4547495481042644}
   - component: {fileID: 33934901011143586}
   - component: {fileID: 23240465147975564}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Wheels
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9141,7 +9180,7 @@ GameObject:
   - component: {fileID: 4297798059059172}
   - component: {fileID: 33339269500485740}
   - component: {fileID: 23110615150269302}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_Tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9160,7 +9199,7 @@ GameObject:
   - component: {fileID: 33984313000153286}
   - component: {fileID: 23004051392288908}
   - component: {fileID: 64056776898726548}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_WallWindow_2x3_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9178,7 +9217,7 @@ GameObject:
   - component: {fileID: 4574244759584135}
   - component: {fileID: 33106616409820839}
   - component: {fileID: 23842910114943413}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_DoorFrame_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9197,7 +9236,7 @@ GameObject:
   - component: {fileID: 33163987290266206}
   - component: {fileID: 23955515037489916}
   - component: {fileID: 64025857833598584}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9216,7 +9255,7 @@ GameObject:
   - component: {fileID: 33163988016945680}
   - component: {fileID: 23955514310843058}
   - component: {fileID: 64025857492794934}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9235,7 +9274,7 @@ GameObject:
   - component: {fileID: 33163988067739802}
   - component: {fileID: 23955514260056120}
   - component: {fileID: 64025857039338684}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9254,7 +9293,7 @@ GameObject:
   - component: {fileID: 33163988471483950}
   - component: {fileID: 23955513856265868}
   - component: {fileID: 64025859055708680}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9273,7 +9312,7 @@ GameObject:
   - component: {fileID: 33163988860089276}
   - component: {fileID: 23955513534984990}
   - component: {fileID: 64025858864502682}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9292,7 +9331,7 @@ GameObject:
   - component: {fileID: 33163988834645683}
   - component: {fileID: 23955513493419537}
   - component: {fileID: 64025858839089813}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9311,7 +9350,7 @@ GameObject:
   - component: {fileID: 33163989102960307}
   - component: {fileID: 23955513224732177}
   - component: {fileID: 64025858570517141}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9330,7 +9369,7 @@ GameObject:
   - component: {fileID: 33163989179574786}
   - component: {fileID: 23955513215494816}
   - component: {fileID: 64025858146029092}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9349,7 +9388,7 @@ GameObject:
   - component: {fileID: 33163989356766127}
   - component: {fileID: 23955512971027213}
   - component: {fileID: 64025858320893833}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9368,7 +9407,7 @@ GameObject:
   - component: {fileID: 33163989301744496}
   - component: {fileID: 23955513026237394}
   - component: {fileID: 64025858241967958}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Ramp_45_1x1_01P (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9386,7 +9425,7 @@ GameObject:
   - component: {fileID: 4750822600493548}
   - component: {fileID: 33775554619850564}
   - component: {fileID: 23420060109006890}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_rr_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9404,7 +9443,7 @@ GameObject:
   - component: {fileID: 4391301136547284}
   - component: {fileID: 33264769406324438}
   - component: {fileID: 23621005410995364}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Flap_fl_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9423,7 +9462,7 @@ GameObject:
   - component: {fileID: 33260348300150188}
   - component: {fileID: 23216626939932966}
   - component: {fileID: 64941024988928870}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Primitive_Sphere_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9442,7 +9481,7 @@ GameObject:
   - component: {fileID: 33104824049975480}
   - component: {fileID: 23573646692746024}
   - component: {fileID: 65016126819573034}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_1x1_01P (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9461,7 +9500,7 @@ GameObject:
   - component: {fileID: 33104822158359166}
   - component: {fileID: 23573645900036590}
   - component: {fileID: 65016127612299244}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_1x1_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9480,7 +9519,7 @@ GameObject:
   - component: {fileID: 33104822429431567}
   - component: {fileID: 23573646164718751}
   - component: {fileID: 65016127349811869}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_1x1_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9499,7 +9538,7 @@ GameObject:
   - component: {fileID: 33104822484138347}
   - component: {fileID: 23573645405436667}
   - component: {fileID: 65016128209790201}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Floor_1x1_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9517,7 +9556,7 @@ GameObject:
   - component: {fileID: 4124370849601299}
   - component: {fileID: 33639638624364957}
   - component: {fileID: 23675112684720789}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_02 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9535,7 +9574,7 @@ GameObject:
   - component: {fileID: 4124369868791367}
   - component: {fileID: 33639639538065609}
   - component: {fileID: 23675113363545025}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_02 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9553,7 +9592,7 @@ GameObject:
   - component: {fileID: 4124369745030873}
   - component: {fileID: 33639639661760599}
   - component: {fileID: 23675113789303647}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9572,7 +9611,7 @@ GameObject:
   - component: {fileID: 33325237092635012}
   - component: {fileID: 23749082036124944}
   - component: {fileID: 64467713549745846}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_TreeDead_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9591,7 +9630,7 @@ GameObject:
   - component: {fileID: 33325237261829861}
   - component: {fileID: 23749082220292721}
   - component: {fileID: 64467713227450839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_TreeDead_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9609,7 +9648,7 @@ GameObject:
   - component: {fileID: 4261005147453190}
   - component: {fileID: 33380595483251854}
   - component: {fileID: 23668132866774844}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_05 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9627,7 +9666,7 @@ GameObject:
   - component: {fileID: 4261006201613949}
   - component: {fileID: 33380596605570549}
   - component: {fileID: 23668133994565191}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Small_Rocks_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9646,7 +9685,7 @@ GameObject:
   - component: {fileID: 33380709884994544}
   - component: {fileID: 23466010043498064}
   - component: {fileID: 64912646361032292}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Prop_Plane_Ring_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9665,7 +9704,7 @@ GameObject:
   - component: {fileID: 33380709211776452}
   - component: {fileID: 23466009374537828}
   - component: {fileID: 64912645662646352}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Prop_Plane_Ring_01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9684,7 +9723,7 @@ GameObject:
   - component: {fileID: 33380709349886482}
   - component: {fileID: 23466009505372082}
   - component: {fileID: 64912645826449286}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Prop_Plane_Ring_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9703,7 +9742,7 @@ GameObject:
   - component: {fileID: 33380711136182303}
   - component: {fileID: 23466010806115775}
   - component: {fileID: 64912647058048395}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Prop_Plane_Ring_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9722,7 +9761,7 @@ GameObject:
   - component: {fileID: 33812785930123616}
   - component: {fileID: 23209269907022592}
   - component: {fileID: 64495058919684742}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Soft_01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9741,7 +9780,7 @@ GameObject:
   - component: {fileID: 33812787114508322}
   - component: {fileID: 23209269006785090}
   - component: {fileID: 64495060154336196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Soft_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9760,7 +9799,7 @@ GameObject:
   - component: {fileID: 33812786990481512}
   - component: {fileID: 23209268880202248}
   - component: {fileID: 64495060048724878}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Soft_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9779,7 +9818,7 @@ GameObject:
   - component: {fileID: 33812786562230061}
   - component: {fileID: 23209269593554253}
   - component: {fileID: 64495060611212491}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Soft_01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9798,7 +9837,7 @@ GameObject:
   - component: {fileID: 33812786252840808}
   - component: {fileID: 23209269885248776}
   - component: {fileID: 64495060382694542}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_Mountains_Soft_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9817,7 +9856,7 @@ GameObject:
   - component: {fileID: 33722241102936260}
   - component: {fileID: 23803297208816626}
   - component: {fileID: 64119530195828646}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Primitive_Tube_01P
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9836,7 +9875,7 @@ GameObject:
   - component: {fileID: 33843190693668158}
   - component: {fileID: 23634532795188430}
   - component: {fileID: 64158727075403766}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Sword_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9855,7 +9894,7 @@ GameObject:
   - component: {fileID: 33843190857342382}
   - component: {fileID: 23634532027743326}
   - component: {fileID: 64158726374862694}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Prop_Sword_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9873,7 +9912,7 @@ GameObject:
   - component: {fileID: 4978315498945900}
   - component: {fileID: 33132628292876178}
   - component: {fileID: 23300620023778992}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Crop_Duster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9891,7 +9930,7 @@ GameObject:
   - component: {fileID: 4358961756633038}
   - component: {fileID: 33941065294023204}
   - component: {fileID: 23687433136030844}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Veh_Plane_Stunt_01_Glass
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9910,7 +9949,7 @@ GameObject:
   - component: {fileID: 33455270636013344}
   - component: {fileID: 23721894393979184}
   - component: {fileID: 65810138918882098}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9930,7 +9969,7 @@ GameObject:
   - component: {fileID: 23721894427332153}
   - component: {fileID: 65810138947920955}
   - component: {fileID: 65810138947920956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9949,7 +9988,7 @@ GameObject:
   - component: {fileID: 33455270627574631}
   - component: {fileID: 23721894435906935}
   - component: {fileID: 65810138960875381}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9968,7 +10007,7 @@ GameObject:
   - component: {fileID: 33455270700850382}
   - component: {fileID: 23721894501055198}
   - component: {fileID: 65810139021824220}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9987,7 +10026,7 @@ GameObject:
   - component: {fileID: 33455270792009429}
   - component: {fileID: 23721894544109765}
   - component: {fileID: 65810139064752839}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10006,7 +10045,7 @@ GameObject:
   - component: {fileID: 33455270747635117}
   - component: {fileID: 23721894550805437}
   - component: {fileID: 65810139075588543}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10025,7 +10064,7 @@ GameObject:
   - component: {fileID: 33455270762934491}
   - component: {fileID: 23721894573184715}
   - component: {fileID: 65810139093843145}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10044,7 +10083,7 @@ GameObject:
   - component: {fileID: 33455270854233908}
   - component: {fileID: 23721894616164644}
   - component: {fileID: 65810139136869158}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10063,7 +10102,7 @@ GameObject:
   - component: {fileID: 33455270831893246}
   - component: {fileID: 23721894634310894}
   - component: {fileID: 65810139159095020}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10082,7 +10121,7 @@ GameObject:
   - component: {fileID: 33455270831208083}
   - component: {fileID: 23721894634934403}
   - component: {fileID: 65810139159788161}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10101,7 +10140,7 @@ GameObject:
   - component: {fileID: 33455270348771522}
   - component: {fileID: 23721894177912530}
   - component: {fileID: 65810139239554256}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10120,7 +10159,7 @@ GameObject:
   - component: {fileID: 33455270441994419}
   - component: {fileID: 23721894185283235}
   - component: {fileID: 65810139247117473}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10139,7 +10178,7 @@ GameObject:
   - component: {fileID: 33455270413174238}
   - component: {fileID: 23721894214165454}
   - component: {fileID: 65810139275938252}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10158,7 +10197,7 @@ GameObject:
   - component: {fileID: 33455270410738381}
   - component: {fileID: 23721894220741853}
   - component: {fileID: 65810139278251743}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10177,7 +10216,7 @@ GameObject:
   - component: {fileID: 33455270430758279}
   - component: {fileID: 23721894234338199}
   - component: {fileID: 65810139291916693}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10196,7 +10235,7 @@ GameObject:
   - component: {fileID: 33455270504735868}
   - component: {fileID: 23721894256820844}
   - component: {fileID: 65810139318478958}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10215,7 +10254,7 @@ GameObject:
   - component: {fileID: 33455270512455655}
   - component: {fileID: 23721894249040375}
   - component: {fileID: 65810139310760949}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10234,7 +10273,7 @@ GameObject:
   - component: {fileID: 33455270524555592}
   - component: {fileID: 23721894274692952}
   - component: {fileID: 65810139332336986}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10253,7 +10292,7 @@ GameObject:
   - component: {fileID: 33455270522221472}
   - component: {fileID: 23721894272832944}
   - component: {fileID: 65810139334688690}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10272,7 +10311,7 @@ GameObject:
   - component: {fileID: 33455270573140119}
   - component: {fileID: 23721894326767239}
   - component: {fileID: 65810139384292485}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10291,7 +10330,7 @@ GameObject:
   - component: {fileID: 33455270584554746}
   - component: {fileID: 23721894344782570}
   - component: {fileID: 65810139406424296}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10310,7 +10349,7 @@ GameObject:
   - component: {fileID: 33455270120192114}
   - component: {fileID: 23721893873819234}
   - component: {fileID: 65810139468149856}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10329,7 +10368,7 @@ GameObject:
   - component: {fileID: 33455270135545294}
   - component: {fileID: 23721893954870238}
   - component: {fileID: 65810139553591772}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10348,7 +10387,7 @@ GameObject:
   - component: {fileID: 33455270132933198}
   - component: {fileID: 23721893961663582}
   - component: {fileID: 65810139556195932}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10367,7 +10406,7 @@ GameObject:
   - component: {fileID: 33455270145295850}
   - component: {fileID: 23721893949301754}
   - component: {fileID: 65810139543685624}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10386,7 +10425,7 @@ GameObject:
   - component: {fileID: 33455270139205884}
   - component: {fileID: 23721893951209196}
   - component: {fileID: 65810139549914350}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10405,7 +10444,7 @@ GameObject:
   - component: {fileID: 33455270148861248}
   - component: {fileID: 23721893975100240}
   - component: {fileID: 65810139573690706}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10424,7 +10463,7 @@ GameObject:
   - component: {fileID: 33455270264689887}
   - component: {fileID: 23721893997753039}
   - component: {fileID: 65810139592202445}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10444,7 +10483,7 @@ GameObject:
   - component: {fileID: 23721894042442981}
   - component: {fileID: 65810139641100007}
   - component: {fileID: 65810139641100008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10463,7 +10502,7 @@ GameObject:
   - component: {fileID: 33455269848451603}
   - component: {fileID: 23721893608680451}
   - component: {fileID: 65810139739866625}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10482,7 +10521,7 @@ GameObject:
   - component: {fileID: 33455269859901379}
   - component: {fileID: 23721893592979923}
   - component: {fileID: 65810139728573393}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10501,7 +10540,7 @@ GameObject:
   - component: {fileID: 33455269858614213}
   - component: {fileID: 23721893594332629}
   - component: {fileID: 65810139729844183}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10520,7 +10559,7 @@ GameObject:
   - component: {fileID: 33455269853914600}
   - component: {fileID: 23721893599020024}
   - component: {fileID: 65810139734551034}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10539,7 +10578,7 @@ GameObject:
   - component: {fileID: 33455269795284291}
   - component: {fileID: 23721893624030035}
   - component: {fileID: 65810139759610193}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10558,7 +10597,7 @@ GameObject:
   - component: {fileID: 33455269806914507}
   - component: {fileID: 23721893616672219}
   - component: {fileID: 65810139747874777}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10577,7 +10616,7 @@ GameObject:
   - component: {fileID: 33455269813104563}
   - component: {fileID: 23721893639768483}
   - component: {fileID: 65810139775361953}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10596,7 +10635,7 @@ GameObject:
   - component: {fileID: 33455269898414258}
   - component: {fileID: 23721893659381410}
   - component: {fileID: 65810139790582944}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10615,7 +10654,7 @@ GameObject:
   - component: {fileID: 33455269892164009}
   - component: {fileID: 23721893694992313}
   - component: {fileID: 65810139830502843}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10634,7 +10673,7 @@ GameObject:
   - component: {fileID: 33455269887926427}
   - component: {fileID: 23721893699225227}
   - component: {fileID: 65810139834625161}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10653,7 +10692,7 @@ GameObject:
   - component: {fileID: 33455269968688736}
   - component: {fileID: 23721893719068784}
   - component: {fileID: 65810139854666354}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10672,7 +10711,7 @@ GameObject:
   - component: {fileID: 33455269962968053}
   - component: {fileID: 23721893724851685}
   - component: {fileID: 65810139860379623}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10691,7 +10730,7 @@ GameObject:
   - component: {fileID: 33455269947323194}
   - component: {fileID: 23721893773989162}
   - component: {fileID: 65810139909586728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10710,7 +10749,7 @@ GameObject:
   - component: {fileID: 33455270031009884}
   - component: {fileID: 23721893790961228}
   - component: {fileID: 65810139926422606}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10729,7 +10768,7 @@ GameObject:
   - component: {fileID: 33455270049919421}
   - component: {fileID: 23721893809870765}
   - component: {fileID: 65810139941076399}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10748,7 +10787,7 @@ GameObject:
   - component: {fileID: 33455270019122723}
   - component: {fileID: 23721893836464179}
   - component: {fileID: 65810139971848753}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10767,7 +10806,7 @@ GameObject:
   - component: {fileID: 33455270029617353}
   - component: {fileID: 23721893830168281}
   - component: {fileID: 65810139961369819}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10786,7 +10825,7 @@ GameObject:
   - component: {fileID: 33455271720863094}
   - component: {fileID: 23721893309064038}
   - component: {fileID: 65810139981515108}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10805,7 +10844,7 @@ GameObject:
   - component: {fileID: 33455271691542047}
   - component: {fileID: 23721893372016655}
   - component: {fileID: 65810140044399117}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10824,7 +10863,7 @@ GameObject:
   - component: {fileID: 33455271795949143}
   - component: {fileID: 23721893401827399}
   - component: {fileID: 65810140074095173}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10843,7 +10882,7 @@ GameObject:
   - component: {fileID: 33455271759777489}
   - component: {fileID: 23721893437925569}
   - component: {fileID: 65810140110373571}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10862,7 +10901,7 @@ GameObject:
   - component: {fileID: 33455271809237566}
   - component: {fileID: 23721893489189934}
   - component: {fileID: 65810140161576492}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10881,7 +10920,7 @@ GameObject:
   - component: {fileID: 33455271833911588}
   - component: {fileID: 23721893498005300}
   - component: {fileID: 65810140170325302}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10900,7 +10939,7 @@ GameObject:
   - component: {fileID: 33455271910802559}
   - component: {fileID: 23721893521842799}
   - component: {fileID: 65810140194228333}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10919,7 +10958,7 @@ GameObject:
   - component: {fileID: 33455271942063459}
   - component: {fileID: 23721893528331123}
   - component: {fileID: 65810140196391281}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10938,7 +10977,7 @@ GameObject:
   - component: {fileID: 33455271891540856}
   - component: {fileID: 23721893545311592}
   - component: {fileID: 65810140213499754}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10957,7 +10996,7 @@ GameObject:
   - component: {fileID: 33455271899536226}
   - component: {fileID: 23721893570870642}
   - component: {fileID: 65810140239058800}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10976,7 +11015,7 @@ GameObject:
   - component: {fileID: 33455271444245434}
   - component: {fileID: 23721893048815018}
   - component: {fileID: 65810140258019240}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10995,7 +11034,7 @@ GameObject:
   - component: {fileID: 33455271448815851}
   - component: {fileID: 23721893044244219}
   - component: {fileID: 65810140253447417}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11014,7 +11053,7 @@ GameObject:
   - component: {fileID: 33455271463454368}
   - component: {fileID: 23721893067415728}
   - component: {fileID: 65810140272478898}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11033,7 +11072,7 @@ GameObject:
   - component: {fileID: 33455271417456508}
   - component: {fileID: 23721893079859564}
   - component: {fileID: 65810140284939118}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11052,7 +11091,7 @@ GameObject:
   - component: {fileID: 33455271423727902}
   - component: {fileID: 23721893102894862}
   - component: {fileID: 65810140312212748}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11071,7 +11110,7 @@ GameObject:
   - component: {fileID: 33455271436148167}
   - component: {fileID: 23721893090540503}
   - component: {fileID: 65810140299661781}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11090,7 +11129,7 @@ GameObject:
   - component: {fileID: 33455271533914297}
   - component: {fileID: 23721893131177641}
   - component: {fileID: 65810140336121003}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11109,7 +11148,7 @@ GameObject:
   - component: {fileID: 33455271589716010}
   - component: {fileID: 23721893175969338}
   - component: {fileID: 65810140380982328}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11128,7 +11167,7 @@ GameObject:
   - component: {fileID: 33455271595877391}
   - component: {fileID: 23721893199168031}
   - component: {fileID: 65810140408375325}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11147,7 +11186,7 @@ GameObject:
   - component: {fileID: 33455271645797212}
   - component: {fileID: 23721893249989964}
   - component: {fileID: 65810140459243342}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11166,7 +11205,7 @@ GameObject:
   - component: {fileID: 33455271642657725}
   - component: {fileID: 23721893253125549}
   - component: {fileID: 65810140462399407}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11185,7 +11224,7 @@ GameObject:
   - component: {fileID: 33455271657556284}
   - component: {fileID: 23721893271711532}
   - component: {fileID: 65810140481029422}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11204,7 +11243,7 @@ GameObject:
   - component: {fileID: 33455271613172320}
   - component: {fileID: 23721893282540656}
   - component: {fileID: 65810140491728498}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11223,7 +11262,7 @@ GameObject:
   - component: {fileID: 33455271182922608}
   - component: {fileID: 23721892777530720}
   - component: {fileID: 65810140519350114}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11242,7 +11281,7 @@ GameObject:
   - component: {fileID: 33455271247862014}
   - component: {fileID: 23721892842618606}
   - component: {fileID: 65810140588741868}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11262,7 +11301,7 @@ GameObject:
   - component: {fileID: 23721892924246214}
   - component: {fileID: 65810140666258116}
   - component: {fileID: 65810140666258117}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11281,7 +11320,7 @@ GameObject:
   - component: {fileID: 33455271332625335}
   - component: {fileID: 23721892929756583}
   - component: {fileID: 65810140671768485}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11300,7 +11339,7 @@ GameObject:
   - component: {fileID: 33455271403475199}
   - component: {fileID: 23721892988925679}
   - component: {fileID: 65810140734987501}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11319,7 +11358,7 @@ GameObject:
   - component: {fileID: 33455271397392240}
   - component: {fileID: 23721892995012960}
   - component: {fileID: 65810140741219170}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11338,7 +11377,7 @@ GameObject:
   - component: {fileID: 33455271345746181}
   - component: {fileID: 23721893017294613}
   - component: {fileID: 65810140759309591}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11357,7 +11396,7 @@ GameObject:
   - component: {fileID: 33455270988040234}
   - component: {fileID: 23721892599049786}
   - component: {fileID: 65810140882109496}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11376,7 +11415,7 @@ GameObject:
   - component: {fileID: 33455270995850355}
   - component: {fileID: 23721892591243875}
   - component: {fileID: 65810140874192993}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11395,7 +11434,7 @@ GameObject:
   - component: {fileID: 33455271047270608}
   - component: {fileID: 23721892644681408}
   - component: {fileID: 65810140923550914}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11414,7 +11453,7 @@ GameObject:
   - component: {fileID: 33455271057727104}
   - component: {fileID: 23721892663654544}
   - component: {fileID: 65810140946518674}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11433,7 +11472,7 @@ GameObject:
   - component: {fileID: 33455271069704916}
   - component: {fileID: 23721892655793348}
   - component: {fileID: 65810140934680262}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11452,7 +11491,7 @@ GameObject:
   - component: {fileID: 33455271017551977}
   - component: {fileID: 23721892670275193}
   - component: {fileID: 65810140953269371}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11471,7 +11510,7 @@ GameObject:
   - component: {fileID: 33455271016144622}
   - component: {fileID: 23721892671617278}
   - component: {fileID: 65810140954546940}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11490,7 +11529,7 @@ GameObject:
   - component: {fileID: 33455271134032861}
   - component: {fileID: 23721892721563085}
   - component: {fileID: 65810141004447695}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_PolygonPrototype_Buildings_Block_1x1_01P (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11508,7 +11547,7 @@ GameObject:
   - component: {fileID: 4174051772633749}
   - component: {fileID: 33582313222063333}
   - component: {fileID: 23661021612901859}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SM_Generic_CloudRing_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
