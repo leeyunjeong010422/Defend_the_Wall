@@ -10,6 +10,7 @@ public class SoundManager : MonoBehaviour
     [SerializeField] private AudioSource gun;
     [SerializeField] private AudioSource reload;
     [SerializeField] private AudioSource enemyDie;
+    [SerializeField] private AudioSource score_10;
 
     private float previousTime = 0f;
 
@@ -57,6 +58,11 @@ public class SoundManager : MonoBehaviour
     public void PlayEnemyDieSound()
     {
         enemyDie.PlayOneShot(enemyDie.clip);
+    }
+
+    public void PlayScore_10Sound()
+    {
+        score_10.PlayOneShot(score_10.clip);
     }
 }
 

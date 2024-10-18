@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TrainingBulletController : MonoBehaviour
 {
@@ -14,9 +15,9 @@ public class TrainingBulletController : MonoBehaviour
         bulletRigidbody = GetComponent<Rigidbody>();
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider collider)
     {
-        if (other.CompareTag("Enemy"))
+        if (collider.CompareTag("Enemy"))
         {
             ReturnToPool(); //적과 충돌하면 풀로 반환
         }
@@ -63,5 +64,20 @@ public class TrainingBulletController : MonoBehaviour
     {
         yield return new WaitForSeconds(delay);
         ReturnToPool(); //지연 후 총알 반환
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Target")) //과녁에 맞았을 때
+        {
+            TargetScore targetScore = collision.gameObject.GetComponent<TargetScore>();
+            if (targetScore != null)
+            {
+                int score = targetScore.CalculateScore(collision.contacts[0].point); //점수 계산
+                ScoreManager.Instance.UpdateScore(score); //점수판 업데이트
+            }
+
+            ReturnToPool(); //총알 풀로 돌아가기
+        }
     }
 }
