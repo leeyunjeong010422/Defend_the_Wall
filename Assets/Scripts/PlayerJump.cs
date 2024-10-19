@@ -26,7 +26,8 @@ public class PlayerJump : MonoBehaviour
 
         movement.y += gravity * Time.deltaTime;
 
-        characterController.Move(movement * Time.deltaTime);
+        //CharacterControllerDriver분석해서 하기...
+        //characterController.Move(movement * Time.deltaTime);
     }
 
     private void Jump()
