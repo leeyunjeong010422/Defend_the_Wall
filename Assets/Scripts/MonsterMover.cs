@@ -23,8 +23,8 @@ public class MonsterMover : MonoBehaviour
         navMeshAgent = GetComponent<NavMeshAgent>();
         animator.SetFloat("Locomotion", 1);
 
-        monsterAttackPoint = GameObject.Find("AttackPointackPoint");
-        target = GameObject.Find("AttackPointackPoint").transform;
+        monsterAttackPoint = GameObject.Find("MonsterAttackPoint");
+        target = GameObject.Find("MonsterAttackPoint").transform;
     }
 
     private void Update()
