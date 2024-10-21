@@ -21,6 +21,11 @@ public class TrainingBulletController : MonoBehaviour
         {
             ReturnToPool(); //적과 충돌하면 풀로 반환
         }
+
+        if (collider.CompareTag("Monster"))
+        {
+            ReturnToPool(); //몬스터와 충돌하면 풀로 반환
+        }
     }
 
     private void OnEnable()

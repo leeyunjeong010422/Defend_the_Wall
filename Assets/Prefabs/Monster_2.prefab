@@ -3217,7 +3217,7 @@ GameObject:
   - component: {fileID: 3145019750295093953}
   m_Layer: 9
   m_Name: Monster_2
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3277,10 +3277,6 @@ MonoBehaviour:
   monsterAttackPoint: {fileID: 4216202612181650423, guid: 48ca4b97e53e70442913ae89ce554398, type: 3}
   target: {fileID: 4217689679306215119, guid: 48ca4b97e53e70442913ae89ce554398, type: 3}
   navMeshAgent: {fileID: 3145019750295093953}
-  obstacleDetectionDistance: 2
-  obstacleLayer:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!136 &1039153294060134789
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3289,7 +3285,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369298855290259168}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 0.7226467
   m_Height: 1.4452934

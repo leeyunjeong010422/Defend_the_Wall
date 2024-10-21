@@ -66,4 +66,12 @@ public class MonsterMover : MonoBehaviour
             Attack();
         }
     }
+
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Bullet"))
+        {
+            Destroy(gameObject);
+        }
+    }
 }
