@@ -3274,9 +3274,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 369298855282979852}
   locomotionSpeed: 1
-  monsterAttackPoint: {fileID: 0}
-  target: {fileID: 0}
-  navMeshAgent: {fileID: 0}
+  monsterAttackPoint: {fileID: 4216202612181650423, guid: 48ca4b97e53e70442913ae89ce554398, type: 3}
+  target: {fileID: 4217689679306215119, guid: 48ca4b97e53e70442913ae89ce554398, type: 3}
+  navMeshAgent: {fileID: 3145019750295093953}
+  obstacleDetectionDistance: 2
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!136 &1039153294060134789
 CapsuleCollider:
   m_ObjectHideFlags: 0

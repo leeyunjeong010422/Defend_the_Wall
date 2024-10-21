@@ -1242,7 +1242,12 @@ MonoBehaviour:
   locomotionSpeed: 1
   monsterAttackPoint: {fileID: 0}
   target: {fileID: 0}
-  navMeshAgent: {fileID: 0}
+  navMeshAgent: {fileID: 1911680541293697921}
+  obstacleDetectionDistance: 2
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 2147484151
+  turnCooldown: 1
 --- !u!136 &7554283250407742680
 CapsuleCollider:
   m_ObjectHideFlags: 0
