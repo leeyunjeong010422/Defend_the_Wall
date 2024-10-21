@@ -71,7 +71,15 @@ public class MonsterMover : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
-            Destroy(gameObject);
+            animator.SetTrigger("Death");
+            StartCoroutine(DestroyAfterDelay(2f));
         }
     }
+
+    private IEnumerator DestroyAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Destroy(gameObject);
+    }
+
 }
