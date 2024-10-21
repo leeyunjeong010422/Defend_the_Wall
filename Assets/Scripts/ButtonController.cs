@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ButtonController : MonoBehaviour
 {
-    [SerializeField] TrainingEnemySpawner enemySpawner; // 적 스포너 참조
+    [SerializeField] TrainingEnemySpawner enemySpawner;
     [SerializeField] Button spawnButton;
     [SerializeField] Button targetButton;
 
@@ -26,7 +26,7 @@ public class ButtonController : MonoBehaviour
     {
         if (enemySpawner != null)
         {
-            enemySpawner.StartSpawning(); // 적 스폰 시작
+            enemySpawner.StartSpawning();
         }
     }
 
