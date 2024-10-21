@@ -15,6 +15,7 @@ public class TrainingEnemyController : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
+            SoundManager.Instance.PlayEnemyDieSound();
             spawner.ReturnEnemyToPool(gameObject);
         }
     }

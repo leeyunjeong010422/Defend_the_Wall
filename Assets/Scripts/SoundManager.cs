@@ -12,6 +12,10 @@ public class SoundManager : MonoBehaviour
     [SerializeField] private AudioSource enemyDie;
     [SerializeField] private AudioSource score_10;
 
+    [SerializeField] private AudioSource bigMonster;
+    [SerializeField] private AudioSource smallMonster;
+    [SerializeField] private AudioSource monsterDie;
+
     private float previousTime = 0f;
 
     private void Awake()
@@ -63,6 +67,21 @@ public class SoundManager : MonoBehaviour
     public void PlayScore_10Sound()
     {
         score_10.PlayOneShot(score_10.clip);
+    }
+
+    public void PlayBigMonster()
+    {
+        bigMonster.PlayOneShot(bigMonster.clip);
+    }
+
+    public void PlaySmallMonster()
+    {
+        smallMonster.PlayOneShot(smallMonster.clip);
+    }
+
+    public void PlayMosterDie()
+    {
+        monsterDie.PlayOneShot(monsterDie.clip);
     }
 }
 

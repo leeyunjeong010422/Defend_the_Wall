@@ -15,6 +15,8 @@ public class MonsterMover : MonoBehaviour
 
     [SerializeField] private NavMeshAgent navMeshAgent;
 
+    [SerializeField] private bool isBigMonster;
+
     private bool isAttacking = false;
 
     private void Start()
@@ -31,6 +33,8 @@ public class MonsterMover : MonoBehaviour
         {
             player = xrOrigin.transform;
         }
+
+        isBigMonster = gameObject.name.Contains("Big");
     }
 
     private void Update()
@@ -42,9 +46,10 @@ public class MonsterMover : MonoBehaviour
             //몬스터가 플레이어에게 이동
             navMeshAgent.SetDestination(player.position);
 
-            if (!isAttacking && distanceToPlayer < 2f)
+            if (!isAttacking && distanceToPlayer < 5f)
             {
                 StartAttack("Attack1");
+                PlayMonsterSound();
             }
         }
         else
@@ -99,6 +104,7 @@ public class MonsterMover : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
+            SoundManager.Instance.PlayMosterDie();
             animator.SetTrigger("Death");
             StartCoroutine(DestroyAfterDelay(2f));
         }
@@ -108,5 +114,17 @@ public class MonsterMover : MonoBehaviour
     {
         yield return new WaitForSeconds(delay);
         Destroy(gameObject);
+    }
+
+    private void PlayMonsterSound()
+    {
+        if (isBigMonster)
+        {
+            SoundManager.Instance.PlayBigMonster();
+        }
+        else
+        {
+            SoundManager.Instance.PlaySmallMonster();
+        }
     }
 }
