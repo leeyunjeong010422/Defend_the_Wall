@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Wall_HP : MonoBehaviour
 {
@@ -32,9 +33,12 @@ public class Wall_HP : MonoBehaviour
         currentHP = Mathf.Clamp(currentHP, 0, maxHP);
         UpdateHPBar();
 
-        if (currentHP < 0)
+        if (currentHP <= 0)
         {
-            //게임 오버 만들기
+            SoundManager.Instance.PlayWallCollapse();
+            gameObject.SetActive(false);
+            hpBar.gameObject.SetActive(false);
+            SceneManager.LoadScene("GameOver");
         }
     }
 

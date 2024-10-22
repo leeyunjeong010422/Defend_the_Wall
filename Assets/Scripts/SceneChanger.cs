@@ -8,6 +8,7 @@ public class SceneChanger : MonoBehaviour
 {
     [SerializeField] Button trainingGroundButton;
     [SerializeField] Button inGameButton;
+    [SerializeField] Button exitGameButton;
 
     private void Start()
     {
@@ -20,6 +21,11 @@ public class SceneChanger : MonoBehaviour
         {
             inGameButton.onClick.AddListener(() => GoToInGame("Game"));
         }
+
+        if(exitGameButton != null)
+        {
+            exitGameButton.onClick.AddListener(() => ExitGame());
+        }
     }
 
     public void GoToTrainingGround(string sceneName)
@@ -30,5 +36,10 @@ public class SceneChanger : MonoBehaviour
     public void GoToInGame(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
+    }
+
+    public void ExitGame()
+    {
+        Application.Quit();
     }
 }
