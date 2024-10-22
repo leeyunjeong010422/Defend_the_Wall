@@ -35,7 +35,7 @@ public class MonsterMover : MonoBehaviour
         if (xrOrigin != null)
         {
             player = xrOrigin.transform;
-            playerComponent = player.GetComponent<Player>();s
+            playerComponent = player.GetComponent<Player>();
         }
 
         isBigMonster = gameObject.name.Contains("Big");
