@@ -1,8 +1,6 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
-using static UnityEditor.Experimental.GraphView.GraphView;
-
 public class MonsterMover : MonoBehaviour
 {
     [SerializeField] private Animator animator;
