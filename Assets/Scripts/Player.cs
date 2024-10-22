@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
 
         if (currentHP <= 0)
         {
+            SoundManager.Instance.StopBGM();
+            SoundManager.Instance.PlayGameOver();
             SceneManager.LoadScene("GameOver");
         }
     }

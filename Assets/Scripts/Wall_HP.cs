@@ -37,6 +37,7 @@ public class Wall_HP : MonoBehaviour
         if (currentHP <= 0)
         {
             SoundManager.Instance.PlayWallCollapse();
+            SoundManager.Instance.StopBGM();
             gameObject.SetActive(false);
             hpBar.gameObject.SetActive(false);
             SceneManager.LoadScene("GameOver");
