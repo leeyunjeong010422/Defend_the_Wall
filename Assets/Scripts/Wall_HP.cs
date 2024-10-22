@@ -23,6 +23,7 @@ public class Wall_HP : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Monster"))
         {
+            SoundManager.Instance.PlayWallBreak();
             TakeDamage(5);
         }
     }

@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.AI;
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class MonsterMover : MonoBehaviour
 {
@@ -19,6 +20,8 @@ public class MonsterMover : MonoBehaviour
 
     private bool isAttacking = false;
 
+    private Player playerComponent;
+
     private void Start()
     {
         animator = GetComponent<Animator>();
@@ -32,6 +35,7 @@ public class MonsterMover : MonoBehaviour
         if (xrOrigin != null)
         {
             player = xrOrigin.transform;
+            playerComponent = player.GetComponent<Player>();s
         }
 
         isBigMonster = gameObject.name.Contains("Big");
@@ -89,6 +93,11 @@ public class MonsterMover : MonoBehaviour
     private void Attack(string attackAnimation)
     {
         animator.SetTrigger(attackAnimation);
+
+        if (attackAnimation == "Attack1" && playerComponent != null)
+        {
+            playerComponent.TakeDamage(5);
+        }
     }
 
     private IEnumerator AttackLoop(string attackAnimation)

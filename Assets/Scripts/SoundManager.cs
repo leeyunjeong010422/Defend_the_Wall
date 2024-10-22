@@ -16,6 +16,7 @@ public class SoundManager : MonoBehaviour
     [SerializeField] private AudioSource smallMonster;
     [SerializeField] private AudioSource monsterDie;
     [SerializeField] private AudioSource wallCollapse;
+    [SerializeField] private AudioSource wallBreak;
 
     private float previousTime = 0f;
 
@@ -88,6 +89,11 @@ public class SoundManager : MonoBehaviour
     public void PlayWallCollapse()
     {
         wallCollapse.PlayOneShot(wallCollapse.clip);
+    }
+
+    public void PlayWallBreak()
+    {
+        wallBreak.PlayOneShot(wallBreak.clip);
     }
 }
 
