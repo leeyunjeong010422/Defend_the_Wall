@@ -7,7 +7,7 @@
   - 개발 인원: 1명
   - 사용 툴: Unity Engine 2021.3.42f1, Visual Studio 2022, Github, XR Interaction Toolkit
 - 관련 링크
-  - PPT: [PPT 링크](https://drive.google.com/file/d/1o4l9mwG7VDSvARfMYQbrglG1LPcGx31m/view?usp=drive_link)
+  - PPT: [PPT 링크](https://drive.google.com/file/d/1vuxabJ6jhdOv2GoPtV42SOoPA61hNEqG/view?usp=drive_link)
   - 시연영상 : [시연영상 링크](https://youtu.be/_bCkvu3C9yQ)
   - 기술문서: [기술문서 링크](https://docs.google.com/document/d/16EBHZDrbj7ti4WugMRHcCfapSaJBJifqoi-YdG9XUEk/edit?usp=drive_link)
  
